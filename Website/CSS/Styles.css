@@ -1,0 +1,17 @@
+@charset "UTF-8";
+body {
+    display: inherit;
+    -webkit-box-sizing: inherit;
+    -moz-box-sizing: inherit;
+    box-sizing: inherit;
+    background-attachment: ;
+    background-clip: content-box;
+    background-position: 0% 0%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-origin:padding-box;
+	background-image:	
+		
+	image(center)
+		.container {margin: 0}
+}
